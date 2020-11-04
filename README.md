@@ -6,7 +6,7 @@
   * Show details for each media.
 * Restrictions
   * Do not use 3rd party solutions like InstagramKit for the getting data from Instagram.
-  * Use Swift and Promise framework for iOS.
+  * Use Swift and/or Promise framework for iOS.
   * Use Kotlin for Android.
 
 
